@@ -81,16 +81,6 @@ I care about the details too — the interface, the interactions, the loading st
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
-
-## 🚀 Things I've Built
-
-- ✈️ **Apex Airways / G-Dash**
-- ⚡ **Laggy**
-- 🎓 **First Principle Academy**
-- 🧪 **Ruleforge**
-
----
 
 ## 🧠 Currently Learning
 
