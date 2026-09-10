@@ -1,23 +1,23 @@
 <h1 align="center">Hey 👋, I'm Hillary Nimbedam</h1>
 
 <p align="center">
-  <strong>High school student • Full-Stack Developer • Builder</strong>
+  <strong>High school student • "Full-Stack Developer" • Builder</strong>
 </p>
 
 <p align="center">
   I like building software that feels human, looks intentional, and actually solves problems.
   <br />
-  Not another piece of AI slop thrown onto the internet.
+  Not another piece of AI slop thrown onto the internet.gg
 </p>
 
 <p align="center">
-  <a href="https://github.com/hect0o">
+  <a href="https://github.com/codewithhillary">
     <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://guns.lol/hect.oo">
     <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hillarynimbedam@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -151,12 +151,4 @@ An experimental platform where I explore different ideas around web applications
 ## 🧠 Currently Learning
 
 ```text
-Advanced TypeScript
-        ↓
-Better system architecture
-        ↓
-Cloud infrastructure
-        ↓
-AI integrations
-        ↓
-Building products people actually use
+Nothing because am in school now . Fahhhhhh
