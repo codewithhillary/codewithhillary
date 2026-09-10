@@ -7,7 +7,7 @@
 <p align="center">
   I like building software that feels human, looks intentional, and actually solves problems.
   <br />
-  Not another piece of AI slop thrown onto the internet.gg
+  Not another piece of AI slop thrown onto the internet.
 </p>
 
 <p align="center">
@@ -85,61 +85,16 @@ I care about the details too — the interface, the interactions, the loading st
 
 ## 🚀 Things I've Built
 
-### ✈️ Apex Airways / G-Dash
-
-A virtual airline ecosystem built around GeoFS.
-
-Features and ideas include:
-
-- Flight tracking
-- Pilot sessions
-- Flight phases
-- Flight planning
-- Radar-style interfaces
-- Discord integration
-- Cloud backend infrastructure
-
-**Stack:** TypeScript • React • Cloudflare • Firebase • GeoFS
-
----
-
-### ⚡ Laggy
-
-A web product I'm building under **Builtstudios**.
-
-Focused on creating a polished product experience rather than just throwing together another dashboard.
-
-**Stack:** React • TypeScript • Supabase • Tailwind CSS • Cloudflare
-
----
-
-### 🎓 First Principle Academy
-
-A production website built for an actual client.
-
-Worked on:
-
-- Frontend development
-- UI implementation
-- Responsive layouts
-- Deployment
-- Git/GitHub workflow
-- Cloudflare Pages
-- Production fixes and iteration
-
-**Stack:** Svelte • TypeScript • Cloudflare Pages
-
----
-
-### 🧪 Ruleforge
-
-An experimental platform where I explore different ideas around web applications, authentication, cloud infrastructure and APIs.
-
-**Stack:** JavaScript/TypeScript • Cloudflare • D1 • Authentication • APIs
+- ✈️ **Apex Airways / G-Dash**
+- ⚡ **Laggy**
+- 🎓 **First Principle Academy**
+- 🧪 **Ruleforge**
 
 ---
 
 ## 🧠 Currently Learning
 
 ```text
-Nothing because am in school now . Fahhhhhh
+Nothing because I'm in school now.
+
+Fahhhhhhhh 💀
