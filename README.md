@@ -28,14 +28,6 @@
 
 I'm a high school student who spends an unreasonable amount of time turning ideas into software.
 
-I enjoy taking something from:
-
-`"what if I built this?"`
-
-to:
-
-`"wait... this actually works."`
-
 I'm especially interested in:
 
 - 🌐 Full-stack web development
@@ -44,7 +36,6 @@ I'm especially interested in:
 - ☁️ Cloud infrastructure
 - 🔐 Authentication & APIs
 - ⚡ Performance and clean architecture
-- 🧪 Experimenting with weird ideas
 
 I care about the details too — the interface, the interactions, the loading states, the tiny things that make software feel **finished**.
 
