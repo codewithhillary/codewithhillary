@@ -87,4 +87,4 @@ I care about the details too — the interface, the interactions, the loading st
 ```text
 Nothing because I'm in school now.
 
-Fahhhhhhhh 💀
+Fahhhhhhhh 
